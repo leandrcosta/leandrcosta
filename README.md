@@ -5,7 +5,6 @@ Em 2020, decidi mudar de carreira e embarcar no universo da Ciência de Dados. D
 Foi então que, em 2022, decidi aceitar o desafio e iniciar o curso de Desenvolvimento Web na Trybe, buscando me tornar um desenvolvedor que também é apaixonado pela área de Dados. Estou entusiasmado em continuar aprendendo e aplicando os conhecimentos adquiridos, qie iniciaram pequenos e que a medida que o tempo for passando vão ficadno mais ricos.
 
 ## Curiosidades:
-- 😅Tenho 27 anos de vida e 31 de cartório;
 - 🎮Gosto de assitir lives de jogos;
 - 🐱Tenho dois gatos;
 - 🚴🏾Aprendi a gostar de andar de Bike;
